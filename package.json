@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/rohantanwar94/Interview-Platform.git"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
